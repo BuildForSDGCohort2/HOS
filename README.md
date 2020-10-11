@@ -7,25 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About Hospital Operations System
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Hospital Operation system is a system developed to be used by all hospital who wants to operate paperless. From the OPD Unit to Pharmacy and Cashier. It covers every department.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+
+- [Login Here(https://www.bfb.amtabiz.com/login)
+
+## Process of the system
+- **First and formost, you need to register as an admin to be able to use the system**
+- ** the email is [email: admin@admin.com  password: 12345678] **
+- **   Once Youve Logined in successfully1Y. You are now ready to add users with their respective roles to the system.**
+- ** The whole process starts from the nurse. the nurse checks the vitals of the patient. records the vitals into the system. the system before saving geneartes a unique 
+reference number for that particular patient whose details was entered. that particular refernce number is what will be used by the doctor, the lab technicians, the cashier, the pharmacist to fetch information about that particular patient for that period.**
+- ** WHen reference will be written on a shit of papar or will be mentioned to the patient together with the room number of the doctor to go see the doctor.**
+- **The doctor at the otherhand will record the patient information in the system, the doctor will either issue record the prescribtions of the patient and then refer him or her to go to the cashier to make payment for the drugs. or due refer the patient to the lab tecnician when additional examination needs to be done on the patient. the patient has well needs to go pay for the lap fees before proceeding to the lap technician for examination **
+- ** From the lap, back to the doctor. then to the pharmacy for drugs.**
+
+
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
@@ -33,20 +35,11 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to this project! Please email Ahmed Ogua at [ogua.ahmed18@gmail.com](mailto:ogua.ahmed18@gmail.com). with subject Contributing HOS
 
 ## Code of Conduct
 
@@ -54,7 +47,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an e-mail to Ahmed Ogua via [ogua.ahmed18@gmail.com(mailto:ogua.ahmed18@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
