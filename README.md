@@ -28,14 +28,14 @@ Hospital Operation system is a system developed to be used by all hospital who w
 
 
 ## Coming Soon
--**Online Appointment Booking**
--**Project Process Upgrade**
--**Blood Donation**
--**File Management System Integration**
--**Bulk SMS**
+- **Online Appointment Booking**
+- **Project Process Upgrade**
+- **Blood Donation**
+- **File Management System Integration**
+- **Bulk SMS**
 
 
-## Laravel Sponsors
+## HOS Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
@@ -57,4 +57,4 @@ If you discover a security vulnerability within this project, please send an e-m
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
