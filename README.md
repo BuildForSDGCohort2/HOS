@@ -7,12 +7,12 @@ Hospital Operation system is a system developed to be used by all hospital who w
 
 - [Department]
 
--**OPD DEPARTMENT**
--**DOCTORS DEPARTMENT**
--**PAHRMACY DEPARTMENT**
--**CASHIER DEPARTMENT**
--**LABORATORY DEPARTMENT**
--**ADMIN**
+- **OPD DEPARTMENT**
+- **DOCTORS DEPARTMENT**
+- **PAHRMACY DEPARTMENT**
+- **CASHIER DEPARTMENT**
+- **LABORATORY DEPARTMENT**
+- **ADMIN**
 
 - [Login Here(https://www.bfb.amtabiz.com/login)
 
