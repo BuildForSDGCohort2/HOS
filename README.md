@@ -6,6 +6,7 @@ Hospital Operation system is a system developed to be used by all hospital who w
 
 
 - [Department]
+
 -**OPD DEPARTMENT**
 -**DOCTORS DEPARTMENT**
 -**PAHRMACY DEPARTMENT**
