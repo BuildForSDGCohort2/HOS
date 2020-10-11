@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="(https://www.bfb.amtabiz.com/login" target="_blank">Hospital Operations System</a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -16,13 +16,12 @@ Hospital Operation system is a system developed to be used by all hospital who w
 
 ## Process of the system
 - **First and formost, you need to register as an admin to be able to use the system**
-- ** the email is [email: admin@admin.com  password: 12345678] **
-- **   Once Youve Logined in successfully1Y. You are now ready to add users with their respective roles to the system.**
-- ** The whole process starts from the nurse. the nurse checks the vitals of the patient. records the vitals into the system. the system before saving geneartes a unique 
-reference number for that particular patient whose details was entered. that particular refernce number is what will be used by the doctor, the lab technicians, the cashier, the pharmacist to fetch information about that particular patient for that period.**
-- ** WHen reference will be written on a shit of papar or will be mentioned to the patient together with the room number of the doctor to go see the doctor.**
+- **the email is [email: admin@admin.com  password: 12345678]**
+- **Once Youve Logined in successfully1Y. You are now ready to add users with their respective roles to the system.**
+- **The whole process starts from the nurse. the nurse checks the vitals of the patient. records the vitals into the system. the system before saving geneartes a unique reference number for that particular patient whose details was entered. that particular refernce number is what will be used by the doctor, the lab technicians, the cashier, the pharmacist to fetch information about that particular patient for that period.**
+- **WHen reference will be written on a shit of papar or will be mentioned to the patient together with the room number of the doctor to go see the doctor.**
 - **The doctor at the otherhand will record the patient information in the system, the doctor will either issue record the prescribtions of the patient and then refer him or her to go to the cashier to make payment for the drugs. or due refer the patient to the lab tecnician when additional examination needs to be done on the patient. the patient has well needs to go pay for the lap fees before proceeding to the lap technician for examination **
-- ** From the lap, back to the doctor. then to the pharmacy for drugs.**
+- **From the lap, back to the doctor. then to the pharmacy for drugs.**
 
 
 
