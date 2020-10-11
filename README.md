@@ -12,6 +12,14 @@
 Hospital Operation system is a system developed to be used by all hospital who wants to operate paperless. From the OPD Unit to Pharmacy and Cashier. It covers every department.
 
 
+- [Department]
+-**OPD DEPARTMENT**
+-**DOCTORS DEPARTMENT**
+-**PAHRMACY DEPARTMENT**
+-**CASHIER DEPARTMENT**
+-**LABORATORY DEPARTMENT**
+-**ADMIN**
+
 - [Login Here(https://www.bfb.amtabiz.com/login)
 
 ## Process of the system
@@ -24,8 +32,12 @@ Hospital Operation system is a system developed to be used by all hospital who w
 - **From the lap, back to the doctor. then to the pharmacy for drugs.**
 
 
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Coming Soon
+-**Online Appointment Booking**
+-**Project Process Upgrade**
+-**Blood Donation**
+-**File Management System Integration**
+-**Bulk SMS**
 
 
 ## Laravel Sponsors
