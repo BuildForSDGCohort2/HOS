@@ -24,7 +24,7 @@ Hospital Operation system is a system developed to be used by all hospital who w
 - **The reference number can either be written on a shit of papar or will be mentioned to the patient together with the room number of the doctor to go see the doctor.**
 - **The doctor at the otherhand will record the patient information in the system, the doctor will either record the prescribe medicine into the system and  then refer the patient to go to the cashier to make payment for the drugs. or refer the patient to the lab tecnician when additional examination needs to be done on the patient. the patient has well needs to go pay for the lap fees before proceeding to the lap technician for examination **
 - **From the lap, back to the doctor. then to the pharmacy for drugs after payment has been made.**
---**The entire process will require the Ref number to be able to fetch an information, concerning a particular patient**
+- **The entire process will require the Ref number to be able to fetch an information, concerning a particular patient**
 
 
 ## Coming Soon
