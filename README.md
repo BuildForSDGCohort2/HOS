@@ -1,6 +1,6 @@
 <h1 align="center"><a href="(https://www.bfb.amtabiz.com/login" target="_blank">Hospital Operations System</a></h1>
 
-<p align="center"><a href-"https://www.amtabiz.com:2083/cpsess7234520467/frontend/paper_lantern/filemanager/showfile.html?file=hms.PNG&fileop=&dir=%2Fhome%2Famtabizc%2FBFB.amtabiz.com&dirop=&charset=&file_charset=&baseurl=&basedir=' target="_blank" alt="HOS IMAGE"></a></p
+<p align="center"><img src="https://www.amtabiz.com:2083/cpsess7234520467/frontend/paper_lantern/filemanager/showfile.html?file=hms.PNG&fileop=&dir=%2Fhome%2Famtabizc%2FBFB.amtabiz.com&dirop=&charset=&file_charset=&baseurl=&basedir=" /> </p
 
 ## About Hospital Operations System
 
